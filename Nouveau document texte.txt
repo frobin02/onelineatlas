@@ -1,0 +1,12 @@
+output:
+  html_notebook:
+    fig_caption: yes
+    number_sections: yes
+    toc: yes
+    toc_float: yes
+  html_document:
+    fig_caption: yes
+    number_sections: yes
+    toc: yes
+    toc_float: yes
+    df_print: paged
